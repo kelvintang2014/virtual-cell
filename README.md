@@ -182,14 +182,6 @@ git push origin feature/new-drug
 }
 ```
 
-## 📧 Support
-
-**Replace `YOUR_USERNAME`** → **[Your GitHub](https://github.com/YOUR_USERNAME)**  
-*Hong Kong | Bioinformatics*  
-`your.email@university.edu`
-
-***
-
 ## 💰 Sponsor
 
 ⭐ **Star this repo** if it helps your research!  
