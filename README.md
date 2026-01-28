@@ -170,14 +170,3 @@ git checkout -b feature/new-drug
 python cancer_synergy_pipeline.py --n-epochs 5  # Test
 git push origin feature/new-drug
 ```
-
-## 📚 Citation
-
-```
-@misc{synergynet2026,
-  title={SynergyNet: Virtual cells predict cancer drug combinations de novo},
-  author={Your Name},
-  year={2026},
-  howpublished={\url{https://github.com/YOUR_USERNAME/cancer_synergy_pipeline}}
-}
-```
