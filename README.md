@@ -181,20 +181,3 @@ git push origin feature/new-drug
   howpublished={\url{https://github.com/YOUR_USERNAME/cancer_synergy_pipeline}}
 }
 ```
-
-## 💰 Sponsor
-
-⭐ **Star this repo** if it helps your research!  
-🍴 **Fork & contribute** new pathways/drugs!
-
-***
-
-**Replace `YOUR_USERNAME` with your actual GitHub username, then:**
-
-```bash
-git add README.md
-git commit -m "✨ Add production-ready README with install commands"
-git push origin main
-```
-
-**Your repo is now ready for collaborators, reviewers, and citations!** 🎉
